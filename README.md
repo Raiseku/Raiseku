@@ -1,6 +1,6 @@
-# Hi 👋 My name is Alassio Mancinelli
+# Hi 👋 My name is Alessio Mancinelli
 
-Software Developer, Youtuber, Freelancer, Teacher, Gamer, focused on building awesome projects that can enrich my knowledge 🧠
+Software Developer, Youtuber, Freelancer, Teacher, Gamer, Guitarist, focused on building awesome projects that can enrich my knowledge 🧠
 
 <ul>
   <li>🌍  I'm based in Umbria, Italy</li>
