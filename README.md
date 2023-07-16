@@ -7,7 +7,7 @@ Software Developer, Youtuber, Freelancer, Teacher, Gamer, Guitarist, focused on 
   <li>🖥️  See my <a href="https://raiseku.github.io/">website </a></li>
   <li>🎥  Check my <a href="https://youtube.com/channel/UCGI-uTFYv-9QW9kCBMKFbYA">Youtube Channel </a></li>
   <li>👨‍💻  See my <a href="https://www.fiverr.com/raiseku">Freelancer job </a></li>
-  <li>🚀  I'm currently working in <a href="https://www.micra.it">Micra Software & Services</a></li>
+  <li>🚀  I'm currently working in <a href="https://shop.brunellocucinelli.com/it-it/">Brunello Cucinelli</a> as a Full Stack Developer</li>
   <li>✉️  You can contact me at <a href="mailto:alessiomancinelli97@outlook.it">alessiomancinelli97@outlook.it</a></li>
 </ul>
 
