@@ -6,7 +6,6 @@ Software Developer, Youtuber, Teacher, Gamer, Guitarist, focused on building awe
   <li>🌍  I'm based in Umbria, Italy</li>
   <li>🖥️  See my <a href="https://raiseku.github.io/">website </a></li>
   <li>🎥  Check my <a href="https://youtube.com/channel/UCGI-uTFYv-9QW9kCBMKFbYA">Youtube Channel </a></li>
-  <li>🚀  I'm currently working in <a href="https://shop.brunellocucinelli.com/it-it/">Brunello Cucinelli</a> as a Full Stack Developer</li>
   <li>✉️  You can contact me at <a href="mailto:alessiomancinelli97@outlook.it">alessiomancinelli97@outlook.it</a></li>
 </ul>
 
